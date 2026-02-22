@@ -1,4 +1,4 @@
-# DATA-622 Homework 3 — NLP Sentence Embeddings & Similarity
+# DATA-622 Homework 3  NLP Sentence Embeddings & Similarity
 
 ## Overview
 This notebook demonstrates core NLP techniques including sentence tokenization,
@@ -10,7 +10,7 @@ and cosine similarity computation — applied to a real-world news article.
 ## Assignment
 **Course:** DATA-622 — NLP
 **Homework:** 3  
-**Topic:** Natural Language Processing — Sentence Embeddings  
+**Topic:** Natural Language Processing  
 **Author:** Rahul Reddy Kota  
 
 ---
