@@ -8,7 +8,7 @@ and cosine similarity computation — applied to a real-world news article.
 ---
 
 ## Assignment
-**Course:** DATA-622 — Machine Learning  
+**Course:** DATA-622 — NLP
 **Homework:** 3  
 **Topic:** Natural Language Processing — Sentence Embeddings  
 **Author:** Rahul Reddy Kota  
